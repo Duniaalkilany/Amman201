@@ -1,5 +1,5 @@
 let username =prompt('what\'s your name ?');
-console.log('Hello' + username);
+console.log('Hello your name is ' + username);
 
 let age =prompt('how old are you ?');
 console.log('your old is '+ age);
